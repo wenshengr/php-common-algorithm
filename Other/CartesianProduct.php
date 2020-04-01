@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: 南丞
- * Date: 2018/4/3
- * Time: 9:25
- */
+
 
 class CartesianProduct
 {

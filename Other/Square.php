@@ -1,10 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: 南丞
- * Date: 2018/3/19
- * Time: 15:03
- * Facebook 面试题之 判断四个点能否组成正方形
+ * 判断四个点能否组成正方形
  */
 
 class Square

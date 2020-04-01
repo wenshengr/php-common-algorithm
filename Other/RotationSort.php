@@ -1,9 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: 南丞
- * Date: 2018/3/15
- * Time: 16:02
  */
 //回旋
 class RotationSort

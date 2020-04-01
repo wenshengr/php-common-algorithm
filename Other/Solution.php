@@ -1,9 +1,5 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: 南丞
- * Date: 2018/3/14
- * Time: 10:01
  *
  * 题目描述:
  *
