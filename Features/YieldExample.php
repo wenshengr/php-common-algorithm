@@ -116,8 +116,6 @@ echo '/* ------------------------- 协程与任务调度 -----------------------
 /**
  * PHP协程任务
  * 简单的定义具有任何ID标识的协程函数，如一个轻量级的协程函数示例代码
- * @form http://wiki.phpboy.net/doku.php?id=2017-07:54-PHP_Yield%E5%8D%8F%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.md
- *
  * @version  1.0
  */
 class Task
