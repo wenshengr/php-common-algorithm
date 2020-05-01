@@ -1,0 +1,14 @@
+{
+    "name": "wenshr/php-common-algorithm",
+    "description": "this is a php common algorithm",
+    "type": "library",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "wenshr",
+            "email": "wenshr@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
